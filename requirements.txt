@@ -1,0 +1,9 @@
+Flask
+Flask-Markdown
+Flask-Versioned
+
+-e git+http://github.com/jtauber/web-graphics.git#egg=web_graphics
+ipython
+Sphinx
+Sphinx-PyPI-upload
+Markdown
